@@ -146,6 +146,29 @@ body {
   resize: vertical;
 }
 
+.contact-info {
+  margin-top: 24px;
+  padding: 18px;
+  background: #0b0d13;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 14px;
+  max-width: 600px;
+}
+
+.contact-info h3 {
+  margin: 0 0 8px;
+}
+
+.contact-info a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.contact-info a:hover {
+  text-decoration: underline;
+}
+
+
 .footer {
   padding: 40px 0;
   text-align: center;
