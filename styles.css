@@ -40,6 +40,12 @@ body {
   padding: 18px 0;
 }
 
+.card .btn {
+  margin-top: 16px;
+  display: inline-block;
+}
+
+
 .logo {
   font-weight: 700;
   letter-spacing: 0.5px;
